@@ -5,7 +5,7 @@
 
 # How to configure 
 --> First go to nvim ~/.config/nvim/ \
---> paste this whole code in this path  
+--> Paste this whole code in this path  
 
 # Issues need to be fixed 
 --> Debugger using dap need to be fixed \
