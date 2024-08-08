@@ -5,6 +5,7 @@
 
 # How to configure 
 --> First go to nvim ~/.config/nvim/ \
+--> Remove all thing in this file rm -rf * \
 --> Paste this whole code in this path  
 
 # Issues need to be fixed 
